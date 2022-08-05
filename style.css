@@ -50,12 +50,12 @@ h1 {
 }
 
 .controls .fa-play {
-    color: greenyellow;
+    color: white;
 
 }
 
 .controls .fa-stop {
-    color: orangered;
+    color: white;
     margin-right: 10px;
 }
 
@@ -65,7 +65,7 @@ h1 {
 
 .controls .timestamp {
     color: white;
-    font-style: bold;
+    font-weight: bold;
     margin-left: 10px;
 }
 
